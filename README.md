@@ -2,14 +2,14 @@
 
 ## About This Repository
 
-This repository contains technical work samples from my cybersecurity training at Virginia Tech / Fullstack Academy and my professional experience.
+This repository showcases my hands-on cybersecurity projects and professional-grade work samples, demonstrating my ability to conduct security assessments, develop operational procedures, and implement security solutions.
 
 ## Contents
 
-### 1. SOC Report - Splunk Remediation
+### 1. Security Operations (SOC) Report: Splunk Configuration Remediation
 A 3-page report documenting the identification and remediation of a misconfigured Splunk configuration file with overly permissive permissions (777). Includes Linux permissions hardening, MD5 hash monitoring, and security recommendations.
 
-### 2. Windows Pre-Onboarding Runbook
+### 2. Windows Endpoint Configuration & Onboarding Runbook
 A 27-page detailed runbook covering new hire computer setup including:
 - Domain joining
 - Active Directory user/group creation
@@ -17,7 +17,7 @@ A 27-page detailed runbook covering new hire computer setup including:
 - Network drive mapping
 - PowerShell auditing scripts
 
-### 3. Penetration Test Report
+### 3. Network & Web Application Penetration Test Report
 A 27-page penetration test report covering:
 - Network reconnaissance with Nmap
 - Web application vulnerability exploitation
